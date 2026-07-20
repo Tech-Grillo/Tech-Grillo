@@ -2,7 +2,7 @@ Rafael Grillo!
 
 Desenvolvedor Full Stack | 21 anos | Rio de Janeiro
 
-Trabalho com HTML, CSS, JavaScript, Python, C e SQL, desenvolvendo aplicações web do front-end ao back-end. Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo, sempre buscando criar soluções eficientes e evoluir na área de programação. 🚀
+Olá! Sou o Rafael Grillo, graduando em Sistemas de Informação na Unilasalle RJ. Atualmente, concentro meus estudos no Desenvolvimento Web e na expansão dos meus conhecimentos em infraestrutura de redes. Tenho 21 anos e busco constantemente alinhar o aprendizado teórico a práticas que impulsionem minha evolução profissional. Ao longo da minha trajetória, liderei e colaborei em diversas iniciativas tecnológicas voltadas para a educação e o impacto social, refletindo meu compromisso em usar a tecnologia como agente de mudança. 🚀
 
 <p align="left">
     <a href="https://github.com/Tech-Grillo?tab=followers">
